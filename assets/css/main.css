@@ -81,3 +81,8 @@ input:focus {
     color: gray;
     text-decoration: line-through;
 }
+
+footer {
+	position: relative;
+	margin-top: 600px;
+}
